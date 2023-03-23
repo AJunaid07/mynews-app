@@ -1,0 +1,17 @@
+.main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/914/688/859/sky-blue-clear-white-wallpaper-preview.jpg");
+  background-color: #cccccc;
+
+  margin-top: 50px;
+}
+.employeeOfTheMonth {
+  text-align: center;
+}
+.employeeOfTheMonth img {
+  width: 250px;
+  border-radius: 100%;
+}

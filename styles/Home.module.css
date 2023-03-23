@@ -1,0 +1,17 @@
+.main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&w=1000&q=80);
+  
+}
+
+.main h1 {
+  margin-top: -50px;
+  color: aqua;
+}
+.main h3 {
+  color: whitesmoke;
+}
