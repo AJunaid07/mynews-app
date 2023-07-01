@@ -36,7 +36,7 @@ export const EOM = ({ employee }) => {
           <div className={styles.employeeOfTheMonth}>
             <h3>{employee.name}</h3>
             <h6>{employee.position}</h6>
-            <img src={employee.image} alt="employee" />
+            <img src={https://media.licdn.com/dms/image/D4D03AQHFArNWNHcFNg/profile-displayphoto-shrink_800_800/0/1680188449218?e=1693440000&v=beta&t=GPFTPLTzIdYu5RWir6icVAfkPsPVsw_Cdb52hRhIjUY} alt="employee" />
             <p>{employee.description}</p>
           </div>
         </div>
